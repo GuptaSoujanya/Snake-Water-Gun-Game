@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to left, #273b40, #cae9ea);
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 20vh;
+}
+
+img {
+    /* max-width: 100%;
+    height: auto; */
+    height: 20vh;
+    width: 25%;
+    display: block;
+    margin: 10px auto;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #cae9ea;
+    background-color: #3c4748;
+    border-radius: 50px;
+}
+
+#scorePanel {
+    padding: 10px;
+    margin-top: 20px;
+    color: #1d1d1d;
+}
